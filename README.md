@@ -14,7 +14,7 @@ Socioeconomic deprivation is a known determinant of poor health outcomes. This a
 
 ## Repository Contents
 
-* **`5415Final_han.ipynb`**: The main Jupyter Notebook containing the complete code for data loading, validation, exploratory analysis, regression modeling, and visualization.
+* **`5415Final.ipynb`**: The main Jupyter Notebook containing the complete code for data loading, validation, exploratory analysis, regression modeling, and visualization.
 * **`data/`**: (Folder structure required) This directory should contain the source datasets used in the analysis.
 * **`README.md`**: Project documentation.
 
